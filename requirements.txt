@@ -2,6 +2,7 @@ streamlit
 pandas
 numpy
 joblib
-fastai
+fastai<2.8.0
 ta
 xgboost
+yfinance
